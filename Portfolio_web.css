@@ -442,12 +442,12 @@ a {
 }
 
 #project1 {
-    background-image: url(./images/projects/weather_api.png);
+    background-image: url(weather_api.png);
     opacity: 50;
 }
 
 #project2 {
-    background-image: url(./images/projects/password_generator2.png);
+    background-image: url(password_generator2.png);
 }
 
 #project3 {
